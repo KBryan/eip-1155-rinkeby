@@ -1,6 +1,6 @@
 specVersion: 0.0.2
 description: eip1155
-repository: https://github.com/kbryan/eip-1155-subgraph
+repository: https://github.com/KBryan/eip-1155-subgraph
 schema:
   file: ./src/schema.gql
 dataSources:
